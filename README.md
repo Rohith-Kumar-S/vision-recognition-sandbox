@@ -28,13 +28,7 @@ The system supports **interactive training and inference modes**, allowing users
 
 **Total Feature Size:** 9-d  
 
-**Distance Metric:**  
-Scaled Euclidean distance  
-
-\[
-(x_1 - x_2) / \sigma
-\]
-
+**Distance Metric:**  Scaled Euclidean distance  
 ---
 
 ## Deep Learning Features
